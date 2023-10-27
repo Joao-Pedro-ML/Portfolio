@@ -130,7 +130,8 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: calc(1.325rem + 0.9vw);
+  font-size: calc(1.125rem + 0.9vw);
+  letter-spacing: 2px;
 }
 @media (min-width: 1200px) {
   h2, .h2 {
@@ -11044,3 +11045,6 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+
+
