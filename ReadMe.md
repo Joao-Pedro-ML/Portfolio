@@ -22,7 +22,7 @@ Meu site de portfólio foi construído utilizando as seguintes tecnologias:
 
 ## Como Visualizar o Site
 
-Se você deseja visualizar o site, basta acessar [[https://joaopedroml.netlify.app](https://joaopedroml.netlify.app/)].
+Se você deseja visualizar o site, basta acessar [https://joaopedroml.netlify.app](https://joaopedroml.netlify.app/).
 
 ## Como Contribuir
 
